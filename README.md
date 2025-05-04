@@ -1,4 +1,4 @@
-# PHP MYSQL Basit Üyelik Sistemi
+# PHP ve MYSQL Kullabılarak Hazırlanmış Basit Üyelik Sistemi
 PHP ve MYSQL ile hazırlanmış üyelik sisteminden bazı görüntüler;
 
 Giriş ekranı;
